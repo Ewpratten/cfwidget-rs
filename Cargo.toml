@@ -1,6 +1,6 @@
 [package]
 name = "cfwidget"
-version = "1.0.0"
+version = "1.0.1"
 authors = ["Evan Pratten <ewpratten@gmail.com>"]
 edition = "2018"
 description = "A simple Rust client for cfwidget.com"
